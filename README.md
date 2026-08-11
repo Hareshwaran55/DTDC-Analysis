@@ -6,7 +6,7 @@ An Excel-based operations dashboard simulating shipment, revenue, and delivery-p
 
 | File | Description | Link |
 |---|---|---|
-| `DTDC_Dataset_working_file.xlsx` | Full workbook — raw data, calculation sheets, and dashboards | [📥 Download](https://github.com/Hareshwaran55/DTDC-Analysis-Dashboard/edit/main/DTDC.Dataset.working.file.2.xlsx) |
+| `DTDC.Dataset.working.file.2.xlsx` | Full workbook — raw data, calculation sheets, and dashboards | [📥 Download](https://github.com/Hareshwaran55/DTDC-Analysis-Dashboard/releases/download/dashboard-v1/DTDC.Dataset.working.file.2.xlsx) |
 
 
 
