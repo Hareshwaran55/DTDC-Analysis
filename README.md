@@ -74,6 +74,7 @@ Ranchi and Jamshedpur (both in Jharkhand) top the city-level activity list, rein
 **Top destination cities (inbound volume):** Ludhiana (10), Ranchi (10), Coimbatore (9), Chandigarh (9), Bhubaneswar (9)
 
 ### Dashboards
+<img width="878" height="656" alt="Screenshot 2026-08-11 090033" src="https://github.com/user-attachments/assets/f8b7aaad-127c-4c04-a7e0-fbe8bce71e60" />
 
 
 ## ✅ Conclusion
